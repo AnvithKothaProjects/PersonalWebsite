@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-font {
+    font-family: fantasy;
+}
+
+.headerSize {
+    font-size: xx-large;
+}
+
+.bodySize {
+    font-size: larger;
+}
+
+.card {
+    border-radius: 20%;
+    border-width: 5px;
+    border-color: black;
+    width: 35%;
+}
+
+.center {
+    text-align: center;
+}
